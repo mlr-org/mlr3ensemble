@@ -1,2 +1,9 @@
 ^mlr3ensemble\.Rproj$
 ^\.Rproj\.user$
+^LICENSE\.md$
+^codecov\.yml$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
+^\.github$
+^\.pre-commit-config\.yaml$
